@@ -1,3 +1,5 @@
+package first;
+
 public class Practicum {
     public static void main(String[] args) {
         FindRepeats check = new FindRepeats();

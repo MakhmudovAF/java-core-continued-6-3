@@ -1,3 +1,5 @@
+package first;
+
 public class FindRepeats {
     int numberOfRepeats(String text, String substring) {
         int count = 0;
